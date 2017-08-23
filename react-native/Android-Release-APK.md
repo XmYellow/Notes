@@ -1,6 +1,6 @@
 # Android签名文件生成
 
-标签（空格分隔）： react native android
+标签： react-native android
 
 ---
 
