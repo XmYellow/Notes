@@ -2,7 +2,7 @@
 
 标签： react native android
 
----
+
 
 1. keytool命令生成签名秘钥
 ------------------
