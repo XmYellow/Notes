@@ -37,7 +37,8 @@
 
 [参考链接]
 
-[qiniu-webpack-plugin][1]
+[qiniu-webpack-plugin][1];
+
 [aliyunoss-webpack-plugin][2]
 
 
