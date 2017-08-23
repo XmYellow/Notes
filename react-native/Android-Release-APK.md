@@ -6,8 +6,9 @@
 
  **1. keytool命令生成签名秘钥**
 
-> keytool -genkey -v -keystore my-release-key.keystore  -alias
-> my-key-alias -keyalg RSA -keysize 2048 -validity 10000
+    keytool -genkey -v -keystore my-release-key.keystore  -alias
+    my-key-alias -keyalg RSA -keysize 2048 -validity 10000
+
 > 
 > 
 > 上面的**my-release-key**这个名字可以自己取名，同时**my-key-alias**也是自己取名，其中第二个名称alias参数后边的别名，在后面你在为应用签名的时候需要用到，所以暂时记录一下这个别名。
