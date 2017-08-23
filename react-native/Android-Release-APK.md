@@ -4,6 +4,8 @@
 
 ---
 
+> 打包安卓release包如果有编译成功，但是打开软件闪退的情况，可以参考第5步，检查是否没有生产assets等目录。
+
  **1. keytool命令生成签名秘钥**
 
     keytool -genkey -v -keystore my-release-key.keystore  -alias
