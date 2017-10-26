@@ -1,4 +1,4 @@
-# prod环境下url刷新cannot get
+# prod环境下,刷新浏览器url，页面cannot get
 
 标签（空格分隔）： prod url cannot get
 
